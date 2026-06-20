@@ -2,7 +2,7 @@
 # Garbage Classification — Deep Learning Model
 
 A real-time garbage classification system built with TensorFlow/Keras and OpenCV. Point your webcam at a piece of trash, press **S** to scan, and the model identifies the material type within 3 seconds.
-This project was wroked on as part of Artificial Intelligence course at Antonine University.
+This project was worked on as part of Artificial Intelligence course at Antonine University.
 
 ---
 
