@@ -75,7 +75,9 @@ Open `garbage_classifier_DL_model.ipynb` in Jupyter and run all cells. The noteb
 3. Plot accuracy and loss curves
 4. Generate a confusion matrix and classification report
 5. Save the model as `garbage_model.h5`
-NOTE: you can use the pretrained model below:
+
+### Using the pretrained model
+
 The pre-trained model is hosted on Hugging Face:
 
 [HusseinDiab/Garbage-Classifier on Hugging Face](https://huggingface.co/HusseinDiab/Garbage-Classifier)
@@ -87,6 +89,7 @@ from tensorflow.keras.models import load_model
 
 model = load_model("garbage_model.h5")
 ```
+
 
 ### Run real-time webcam classification
 
